@@ -1,5 +1,5 @@
 <?php
-echo '<html>';
+echo '<xhtml>';
 echo '<head><title>Bonjour</title></head>';
 echo '<body>';
 echo '<p>'
